@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ガールフレンズ",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T09:37:09.764439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガールフレンズ",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/01_ガールフレンズ_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガールフレンズ",
+      "artist": "松任谷由実",
+      "has_synced": false,
+      "path": "select/02_ガールフレンズ_松任谷由実.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガールフレンズ",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_ガールフレンズ_FINLANDS.txt"
+    }
+  ]
+}
